@@ -2,6 +2,10 @@
 
 Browser dashboard for the Medialooks Direct Play REST API. It provides a focused workspace for synchronized playback, per-clip control, and archive search.
 
+![Direct Play web dashboard: Multiview with two linked football cameras, the timeline and the jog/shuttle wheel](docs/images/multiview.jpg)
+
+![Direct Play web dashboard: the Archive tab with four football recordings](docs/images/archive.jpg)
+
 ## Projects
 
 - `directplay-js-client` - dependency-free ESM client for Direct Play REST.

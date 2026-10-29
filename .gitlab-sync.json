@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "sourceProject": "bujmakov/directplay-rest-dashboard",
-  "sourceCommit": "75354e6b8e2a2e894c525760736ba20114d77aa8",
-  "snapshotSha256": "0c4536a72de35a7399691412107ce6560527ad856d1ae1c833cdffc2e55674d3",
+  "sourceCommit": "8e2b2fb3585d817ba23856615192d2ac4324d96b",
+  "snapshotSha256": "c4f71a1bd82e510fd3feab5b7654b9c4546b062981359062c7f0072213830d4a",
   "managedFiles": [
     ".gitignore",
     "README.md",
@@ -26,6 +26,8 @@
     "directplay-web-dashboard/src/views/playback.js",
     "directplay-web-dashboard/src/views/shell.js",
     "directplay-web-dashboard/src/workbench.css",
-    "directplay-web-dashboard/vite.config.js"
+    "directplay-web-dashboard/vite.config.js",
+    "docs/images/archive.jpg",
+    "docs/images/multiview.jpg"
   ]
 }

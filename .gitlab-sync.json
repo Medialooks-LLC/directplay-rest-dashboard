@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "sourceProject": "bujmakov/directplay-rest-dashboard",
+  "sourceCommit": "75354e6b8e2a2e894c525760736ba20114d77aa8",
+  "snapshotSha256": "0c4536a72de35a7399691412107ce6560527ad856d1ae1c833cdffc2e55674d3",
+  "managedFiles": [
+    ".gitignore",
+    "README.md",
+    "directplay-js-client/package.json",
+    "directplay-js-client/src/index.js",
+    "directplay-web-dashboard/index.html",
+    "directplay-web-dashboard/package-lock.json",
+    "directplay-web-dashboard/package.json",
+    "directplay-web-dashboard/src/actions.js",
+    "directplay-web-dashboard/src/data.js",
+    "directplay-web-dashboard/src/dom.js",
+    "directplay-web-dashboard/src/main.js",
+    "directplay-web-dashboard/src/store.js",
+    "directplay-web-dashboard/src/styles.css",
+    "directplay-web-dashboard/src/timeline.css",
+    "directplay-web-dashboard/src/timeline.js",
+    "directplay-web-dashboard/src/util.js",
+    "directplay-web-dashboard/src/views/archive.js",
+    "directplay-web-dashboard/src/views/common.js",
+    "directplay-web-dashboard/src/views/exports.js",
+    "directplay-web-dashboard/src/views/playback.js",
+    "directplay-web-dashboard/src/views/shell.js",
+    "directplay-web-dashboard/src/workbench.css",
+    "directplay-web-dashboard/vite.config.js"
+  ]
+}
